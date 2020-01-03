@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jni4net-proxygen xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://jni4net.sf.net/0.8.8.0/toolConfig.xsd">
+  <TargetDirJvm>E:\compile\jvm</TargetDirJvm>
+  <TargetDirClr>E:\compile\clr</TargetDirClr>
+  <AssemblyReference Assembly="E:\CWorkspace\PrintHelper\bin\Release\O2S.Components.PDFRender4NET.dll" />
+  <AssemblyReference Assembly="E:\CWorkspace\PrintHelper\bin\Release\PrintHelper.dll" Generate="true" />
+</jni4net-proxygen>

@@ -1,0 +1,3 @@
+*.js linguist-language=Java
+*.dll linguist-language=Java
+*.java linguist-language=Java
